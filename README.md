@@ -11,7 +11,7 @@
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,html,css,javascript,pytorch,sklearn,selenium,sqlite,tensorflow,anaconda,django,docker,flaskgit,mongodb,mysql,sqlserver,opencv,websocket,postgresql,matlab,maple,c,github,scala&perline=12" />
+    <img src="https://skillicons.dev/icons?i=python,html,css,javascript,pytorch,sklearn,sqlite,tensorflow,anaconda,django,docker,flaskgit,mongodb,mysql,sqlserver,postgresql,matlab,maple,c,github,scala&perline=12" />
 </div>
 
 <br/>
