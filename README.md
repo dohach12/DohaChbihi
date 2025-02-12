@@ -20,7 +20,7 @@
 <h1 align="left">My contributions </h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dohach12/DohaCHBIHI/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/dohach12/DohaCHBIHI/main/snake.svg" alt="Snake animation" />
 </div>
 
 
